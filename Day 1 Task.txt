@@ -1,0 +1,24 @@
+Machine Learning:
+
+	Machine Learning is a very famous term which is used in nearly every other sector, from IT to business. 
+It can be defined as "A piece of software which develops itself from a given dataset".Here the dataset is the sample or information related to the project user is working on. 
+A machine learning system consists of complex algorithms which analyzes the given dataset and gives output based on its accuracy.
+	The ML systems are not explictly coded to obtain a specific output but rather coded in such a way that they learn fromtheir environment i.e dataset. Some of the examples of such systems are Amazon's Alexa,Netflix's Suggestions, Amazon's Suggestions,
+Google and Youtube's Recommendations,etc. They have affected not only the software industry but also the digital markets.
+	Machine Learning is broadly classified into 3 types based on the technique of learning as:
+1. Supervised Learning
+2. Unsupervised Learning
+3. Reinforcement Learning
+
+Supervised Learning:
+
+	Supervised learning allows you to collect data or produce a data output from the previous experience.
+It helps you to optimize performance criteria using experience.
+Supervised machine learning helps you to solve various types of real-world computation problems.
+
+Unsupervised Learning:
+
+	Unsupervised machine learning finds all kind of unknown patterns in data.
+Unsupervised methods help you to find features which can be useful for categorization.
+It is taken place in real time, so all the input data to be analyzed and labeled in the presence of learners.
+It is easier to get unlabeled data from a computer than labeled data, which needs manual intervention.
